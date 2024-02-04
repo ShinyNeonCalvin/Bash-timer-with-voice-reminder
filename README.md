@@ -1,10 +1,10 @@
 # About
 
-This timer is very interactive and contains a lot of features. You can countdown time based on a point in the future or
+This timer is interactive and contains multiple options. You can countdown time based on a point in the future or
 set amount of seconds, minutes, and hours passed. When time
 runs out, your computer makes a phonetic noise, shouts
 a reminder, or issues a command! You can choose the
-message. You can also have it act as stopwatch, with seconds as the smallest unit of time.
+message. 
 
 # Install on Linux
 
