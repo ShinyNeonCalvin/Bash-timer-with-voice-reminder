@@ -4,7 +4,8 @@ This timer is interactive and contains multiple options. You can countdown time 
 set amount of seconds, minutes, and hours passed. When time
 runs out, your computer makes a phonetic noise, shouts
 a reminder, or issues a command! You can choose the
-message. 
+message. You can can also use the -i option in order
+to run it like a stopwatch (indefinite).
 
 # Install on Linux
 
