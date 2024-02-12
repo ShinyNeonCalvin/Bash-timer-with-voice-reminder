@@ -27,9 +27,8 @@ yum install speech-dispatcher
 To install the timer script, copy and paste all these commands in your terminal and hit enter:
 
 <pre><code>
-mkdir ~/BashTimer
 git clone https://github.com/ShinyNeonCalvin/Bash-timer-with-voice-reminder
-cd BashTimer
+cd Bash-timer-with-voice-reminder
 chmod +x timer.sh
 </pre></code>
 # How to Use
